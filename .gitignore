@@ -1,3 +1,6 @@
-*.csv
 .ipynb_checkpoints
 weights.hdf5
+__pycache__/
+*.h5
+*.save
+test.csv
